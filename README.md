@@ -57,8 +57,8 @@ Divide y Vencerás	 Medio	 Media	Paralelización teórica y recursividad.
 Voraz (Greedy)	Instantáneo	 Mínima	Encontrar 1 solución óptima en Big Data.
 Dinámica	Rápido	Controlada	Generación masiva segura con límites (Topes).
 
-Autores
-Oliver Geovanni Melendrez Gutierrez
+Autores:
+Oliver Geovanni Melendrez Gutierrez,
 Ricardo Gregorio Rivera
 •	Materia: Análisis de Algoritmos
 •	Universidad: Universidad de Guadalajara
